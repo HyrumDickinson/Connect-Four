@@ -5,7 +5,7 @@ mostly board functions, kept separate from Board to keep Board lightweight
 
 import random
 import numpy as np
-from src.board import Board
+from board import Board
 from heuristic import heuristic
 from board_functions import (
     next_moves,

@@ -3,7 +3,7 @@ contains game class
 """
 
 import numpy as np
-from src.board import Board
+from board import Board
 from player import Player
 from heuristic import heuristic
 from statics import minimax

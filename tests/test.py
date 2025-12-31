@@ -1,5 +1,5 @@
 """
-minimal main launcher
+For in-development testing
 """
 
 from game import Game

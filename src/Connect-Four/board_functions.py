@@ -5,7 +5,7 @@ so these are separated to keep the Board class lightweight
 """
 
 import numpy as np
-from src.board import Board
+from board import Board
 
 
 def drop_piece_into_column(board: Board, column: int):

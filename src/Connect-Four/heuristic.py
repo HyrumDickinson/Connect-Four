@@ -3,7 +3,7 @@ contains heuristic functions
 gives a rating of position based only on current location of pieces (no looking ahead)
 """
 import numpy as np
-from src.board import Board
+from board import Board
 from board_functions import current_player, can_place, print_board
 
 

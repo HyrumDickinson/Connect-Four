@@ -1,0 +1,6 @@
+[project]
+name = "Connect-Four"
+version = "1.2.0"
+
+[project.scripts]
+my-cli-tool = "Connect-Four.main:main"
